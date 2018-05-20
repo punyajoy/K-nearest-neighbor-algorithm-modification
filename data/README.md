@@ -1,1 +1,1 @@
-﻿Contains 5 different datasets for classification using the algorithm
+﻿Contains five different datasets for classification using the algorithm
